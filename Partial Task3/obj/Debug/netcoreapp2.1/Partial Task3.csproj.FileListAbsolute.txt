@@ -1,0 +1,22 @@
+C:\Users\Oleg\source\repos\Partial Task2\Partial Task3\bin\Debug\netcoreapp2.1\Partial Task3.deps.json
+C:\Users\Oleg\source\repos\Partial Task2\Partial Task3\bin\Debug\netcoreapp2.1\Partial Task3.runtimeconfig.json
+C:\Users\Oleg\source\repos\Partial Task2\Partial Task3\bin\Debug\netcoreapp2.1\Partial Task3.runtimeconfig.dev.json
+C:\Users\Oleg\source\repos\Partial Task2\Partial Task3\bin\Debug\netcoreapp2.1\Partial Task3.dll
+C:\Users\Oleg\source\repos\Partial Task2\Partial Task3\bin\Debug\netcoreapp2.1\Partial Task3.pdb
+C:\Users\Oleg\source\repos\Partial Task2\Partial Task3\obj\Debug\netcoreapp2.1\Partial Task3.csprojAssemblyReference.cache
+C:\Users\Oleg\source\repos\Partial Task2\Partial Task3\obj\Debug\netcoreapp2.1\Partial Task3.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\Partial Task2\Partial Task3\obj\Debug\netcoreapp2.1\Partial Task3.AssemblyInfoInputs.cache
+C:\Users\Oleg\source\repos\Partial Task2\Partial Task3\obj\Debug\netcoreapp2.1\Partial Task3.AssemblyInfo.cs
+C:\Users\Oleg\source\repos\Partial Task2\Partial Task3\obj\Debug\netcoreapp2.1\Partial Task3.dll
+C:\Users\Oleg\source\repos\Partial Task2\Partial Task3\obj\Debug\netcoreapp2.1\Partial Task3.pdb
+C:\Users\Oleg\source\repos\EpamTraining\Partial Task3\bin\Debug\netcoreapp2.1\Partial Task3.deps.json
+C:\Users\Oleg\source\repos\EpamTraining\Partial Task3\bin\Debug\netcoreapp2.1\Partial Task3.runtimeconfig.json
+C:\Users\Oleg\source\repos\EpamTraining\Partial Task3\bin\Debug\netcoreapp2.1\Partial Task3.runtimeconfig.dev.json
+C:\Users\Oleg\source\repos\EpamTraining\Partial Task3\bin\Debug\netcoreapp2.1\Partial Task3.dll
+C:\Users\Oleg\source\repos\EpamTraining\Partial Task3\bin\Debug\netcoreapp2.1\Partial Task3.pdb
+C:\Users\Oleg\source\repos\EpamTraining\Partial Task3\obj\Debug\netcoreapp2.1\Partial Task3.csprojAssemblyReference.cache
+C:\Users\Oleg\source\repos\EpamTraining\Partial Task3\obj\Debug\netcoreapp2.1\Partial Task3.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\EpamTraining\Partial Task3\obj\Debug\netcoreapp2.1\Partial Task3.AssemblyInfoInputs.cache
+C:\Users\Oleg\source\repos\EpamTraining\Partial Task3\obj\Debug\netcoreapp2.1\Partial Task3.AssemblyInfo.cs
+C:\Users\Oleg\source\repos\EpamTraining\Partial Task3\obj\Debug\netcoreapp2.1\Partial Task3.dll
+C:\Users\Oleg\source\repos\EpamTraining\Partial Task3\obj\Debug\netcoreapp2.1\Partial Task3.pdb
