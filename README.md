@@ -20,6 +20,7 @@ Weak 2:
 The results are presented in the project PartialTask2
 
 Weak 3:
+
 1.Create a list that contains several people (> 5). Each person must have several numbers (> 2). Display the name and age of each created person on the console.
 2.Using the AddRange method, add two more people to the created list. Output all numbers to the console (without using LINQ).
 3.Create a list of randomly generated elements of type string (n> 100, length of tape 4, all characters in uppercase). Remove all duplicate elements starting with 'Z' in descending order (z-a). Display the number of items in the list before and after the transformations. Create DisplayPage method (int pageNumber) when you call the corresponding page of the updated list (the number of elements on the page is constant: 5). Implement the program so that the page number to be output is read from the console. If the entered ribbon is not a number then terminate the program (without using LINQ).
